@@ -2,59 +2,53 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Formulario Participa</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Enlace al CSS -->
   <link rel="stylesheet" href="styles.css">
 </head>
+
 <body>
 
   <main>
-    <section class="contenedor">
+    <div class="contenedor">
       <h1>Formulario Participa</h1>
-
       <p>
-        Este formulario permite recoger propuestas, ideas o necesidades de la comunidad.
-        La información será usada únicamente con fines de participación y organización comunitaria.
+        Este formulario tiene como propósito recopilar ideas y propuestas
+        que contribuyan a mejorar la participación y la convivencia en la comunidad.
       </p>
 
       <form>
         <div class="campo">
-          <label for="nombre">Nombre</label>
-          <input 
-            type="text" 
-            id="nombre" 
-            name="nombre" 
-            placeholder="Escribe tu nombre">
+          <label for="nombre">Nombre completo</label>
+          <input type="text" id="nombre" name="nombre" required> stiven-castro
         </div>
 
         <div class="campo">
-          <label for="propuesta">Propuesta o mensaje</label>
-          <textarea 
-            id="propuesta" 
-            name="propuesta" 
-            placeholder="Escribe tu propuesta para la comunidad"></textarea>
+          <label for="correo">Correo electrónico stivenhack4@gmail.com </label>
+          <input type="email" id="correo" name="correo" required>
         </div>
 
         <div class="campo">
-          <label for="contacto">Correo o teléfono de contacto opcional</label>
-          <input 
-            type="text" 
-            id="contacto" 
-            name="contacto" 
-            placeholder="Este campo es opcional">
+          <label for="mensaje">Propuesta o mensaje</label>
+          <textarea id="mensaje" name="mensaje" required></textarea>
         </div>
 
         <div class="campo">
-          <label>
-            <input type="checkbox" name="consentimiento">
-            Acepto que mi información sea usada únicamente para fines de participación comunitaria.
+          <input type="checkbox" id="consentimiento" required>
+          <label for="consentimiento">
+            Acepto que la información suministrada sea utilizada únicamente con fines educativos.
           </label>
         </div>
 
-        <button type="submit">Enviar participación</button>
+        <button type="submit">Enviar propuesta</button>  Mi propuesta es promover espacios digitales
+        de participación donde las personas
+        puedan expresar sus ideas de manera respetuosa y responsable
       </form>
-    </section>
+    </div>
   </main>
 
 </body>
 </html>
+
