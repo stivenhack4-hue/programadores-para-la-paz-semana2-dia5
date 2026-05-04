@@ -5,31 +5,31 @@ Fecha:
 Nombre de la rama:
 
 1. ¿El formulario tiene un título claro?
-Respuesta:
+Respuesta:Sí, el formulario cuenta con un título claro que permite identificar fácilmente su propósito y orienta al usuario sobre la acción que va a realizar.
 
 2. ¿El formulario explica para qué se usará la información?
-Respuesta:
+Respuesta:Sí, el formulario informa de manera clara para qué será utilizada la información solicitada, lo que genera confianza y transparencia en el usuario.
 
 3. ¿Cada campo tiene un label o etiqueta visible?
-Respuesta:
+Respuesta:Sí, cada campo del formulario tiene una etiqueta visible que indica qué información debe ingresar el usuario, facilitando la comprensión y la accesibilidad.
 
 4. ¿El lenguaje usado es sencillo y comprensible?
-Respuesta:
+Respuesta:Sí, el lenguaje utilizado es sencillo, claro y fácil de entender, lo que permite que cualquier persona pueda completar el formulario sin dificultades.
 
 5. ¿El formulario evita pedir datos innecesarios?
-Respuesta:
+Respuesta:Sí, el formulario solicita únicamente la información necesaria para cumplir su objetivo, evitando pedir datos innecesarios que puedan afectar la privacidad del usuario.
 
 6. ¿El campo principal permite escribir una propuesta o mensaje de forma clara?
-Respuesta:
+Respuesta:Sí, el campo principal está diseñado para que el usuario pueda escribir su propuesta o mensaje de manera clara, amplia y sin confusiones.
 
 7. ¿El formulario incluye una casilla o mensaje de consentimiento?
-Respuesta:
+Respuesta:Sí, el formulario incluye un mensaje que informa al usuario sobre el uso de sus datos, lo que evidencia una intención de consentimiento y responsabilidad.
 
 8. ¿El botón de envío tiene un texto claro?
-Respuesta:
+Respuesta:Sí, el botón de envío utiliza un texto claro y comprensible que indica de forma directa la acción que realizará el usuario.
 
 9. ¿La página se puede leer con facilidad?
-Respuesta:
+Respuesta:Sí, la página presenta una estructura ordenada, buen contraste y un tamaño de letra adecuado, lo que permite una lectura fácil y cómoda para los usuarios.
 
 10. ¿Qué mejorarías del formulario para que más personas puedan usarlo?
-Respuesta:
+Respuesta:Mejoraría el formulario agregando instrucciones más claras en cada campo para que el usuario sepa exactamente qué información debe escribir.orientar mejor a las personas. Además, haría más visible el mensaje de consentimiento sobre el uso de los datos y aseguraría que el formulario sea totalmente accesible para personas con discapacidad, por ejemplo, mejorando la compatibilidad con lectores de pantalla.
